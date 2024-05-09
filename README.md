@@ -1,6 +1,6 @@
 # Hi there I am **bold**Temitope 👋
-## I am a Data enthusiast and I work as in AIOps.
-_I work currently as an AI annotator_
+## _I am a Data enthusiast and I work as in AIOps._
+I work currently as an AI annotator
 
 <!--
 **msawizzy/msawizzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
