@@ -1,5 +1,5 @@
-# Hi there I am **bold**Temitope 👋
-## _I am a Data enthusiast and I work as in AIOps._
+# Hi there I am **Temitope** 👋
+## _I am a Data enthusiast and I work in AIOps._
 I work currently as an AI annotator
 
 <!--
