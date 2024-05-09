@@ -1,8 +1,7 @@
 ## Hi there I am #**Temitope** 👋
 ## _I am a Data enthusiast and I work in AIOps._
-I work currently as an AI annotator
-**I am looking to learn Data Science.**
-I will appreciate anyone who chooses to be my mentor
+I work currently as an AI annotator and 
+**I am looking to learn Data Science** and I'd love to meet any Data Scientist who can point me in the right direction.
 
 <!--
 **msawizzy/msawizzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
