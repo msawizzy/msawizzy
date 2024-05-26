@@ -4,6 +4,7 @@
  I am a data enthusiast and budding data analyst. I currently work in _AIOps._  
 
 You can view my [portfolio](https://www.datascienceportfol.io/temitopeomodojo "Temitope's Portfolio") to see some of the projects that I have worked on.
+
 **I am looking to learn Data Science** and I'd love to meet any Data Scientist who can point me in the right direction.
 
 
