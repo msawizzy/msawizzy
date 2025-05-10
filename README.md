@@ -1,5 +1,5 @@
 # Hi there :wave:,
- _**I am Temitope Omodojo.**_
+ _I am **Temitope Omodojo.**_
 
  I am a data enthusiast and budding data analyst. I currently work in _AIOps._  
 
